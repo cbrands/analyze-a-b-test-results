@@ -10,11 +10,6 @@ conda upgrade conda
 conda upgrade --all
 ```
 
-You need statsmodels
-```
-conda install statsmodels
-```
-
 ## Run jupyter
 to run jupyter use:
 ```
